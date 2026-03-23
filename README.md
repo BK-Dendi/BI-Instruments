@@ -18,12 +18,12 @@ Welcome to my professional portfolio. This repository showcases my ability to tr
 
 
 ### 3. Tableau: [Project Name Coming Soon]
-* **Goal:** (e.g., Global CO2 Emissions Visual Story)
+* **Goal:** 
 * **Key Skills:** Level of Detail (LOD) expressions, Interactive Storyboarding.
 
 
 ### 4. Datawrapper: [Project Name Coming Soon]
-* **Goal:** (e.g., Quick Journalist-style Charts for Media)
+* **Goal:** 
 * **Key Skills:** Responsive web-embedded charts, Clean typography.
 
 
