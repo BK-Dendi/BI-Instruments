@@ -15,7 +15,7 @@ This project focuses on identifying market trends across major Siberian cities (
 #### 1. Price Benchmark (Tyumen vs Siberia)
 ![Price per SQM](Charts/01_average_price_per_sqm.png)
 
-#### 2. Market Dynamics (2019-2024)
+#### 2. Market Dynamics (2019-2021)
 ![Price Growth](Charts/02_price_growth_dynamics.png)
 
 #### 3. Construction Quality: Monolithic Dominance
