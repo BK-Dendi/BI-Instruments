@@ -32,7 +32,7 @@ You can explore the live data and apply filters using these official links:
 1. 💰 [**Average Price per SQM Comparison**](https://datalens.yandex/eh9kydpzov3sy)
    *Compare real estate prices across major Siberian cities.*
 
-2. 📈 [**Price Growth Dynamics (2019-2024)**](https://datalens.yandex/be61d1ih9rpev)
+2. 📈 [**Price Growth Dynamics (2019-2021)**](https://datalens.yandex/be61d1ih9rpev)
    *Detailed 3-year market trend analysis.*
 
 3. 🏢 [**Housing Type Distribution**](https://datalens.yandex/svnkjrxt3ck0c)
